@@ -2,7 +2,7 @@
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
-Version: GnuPG v1.4.2 (GNU/Linux)
+Version: GnuPG v1.4.18 (GNU/Linux)
 
 mQINBFcaEF8BEADyEluMkMJgm5XN9f58pZlVrPd15rCYBjrGbj4+tWXik5CseFW5
 jBmya3SJB5Ku2DpoANHidMtRI7tzIWmAEZVdDRNwcj4gQnHxnNex/1iOvuaPIiYS
